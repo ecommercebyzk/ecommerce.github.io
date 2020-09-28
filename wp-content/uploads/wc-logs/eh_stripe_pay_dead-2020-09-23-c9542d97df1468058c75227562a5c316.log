@@ -1,0 +1,12 @@
+2020-09-23T17:01:36+00:00 DEBUG <------------------- ExtensionHawk Stripe Payment ( eCommerce Website - Charge - Order #209 ) ------------------->
+stdClass Object
+(
+    [name] => Zafar
+    [email] => ayushverma9102@gmail.com
+    [phone] => 9333261031
+    [type] => card_error
+    [card] => other
+    [token] => 
+    [message] => Admin declined the payment due to Card Restriction.
+)
+
